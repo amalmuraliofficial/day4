@@ -1,0 +1,26 @@
+export const districts =[
+    {
+      "id":"1",
+      "title":"trivandrum",
+      "image":"https://assets-news.housing.com/news/wp-content/uploads/2022/08/19025232/TRIVANDRUM-FEATURE-compressed.jpg",
+      "button":"Explore",
+    },
+    {
+       id:"2",
+      "title":"kollam",
+      "image":"https://assets-news.housing.com/news/wp-content/uploads/2022/08/19025232/TRIVANDRUM-FEATURE-compressed.jpg",
+      "button":"Explore",
+    },
+    {
+      "id":"3",
+      "title":"pathanamthitta",
+      "image":"https://assets-news.housing.com/news/wp-content/uploads/2022/08/19025232/TRIVANDRUM-FEATURE-compressed.jpg",
+      "button":"Explore",
+    },
+    {
+      "id":"4",
+      "title":"alapuzha",
+      "image":"https://assets-news.housing.com/news/wp-content/uploads/2022/08/19025232/TRIVANDRUM-FEATURE-compressed.jpg",
+      "button":"Explore",
+    },
+  ]
